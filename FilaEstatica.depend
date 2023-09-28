@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1695310840 source:d:\brian\universidad\sem estructura datos\pilaestatica\main.cpp
+	<iostream>
+	<string>
+	<conio.h>
+
+1695310840 source:d:\brian\universidad\sem estructura datos\filaestatica\main.cpp
+	<iostream>
+	<string>
+	<conio.h>
+
